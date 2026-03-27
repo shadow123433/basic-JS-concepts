@@ -1,2 +1,2 @@
 # basic-JS-concepts
-Aprendendo funções do javascript
+Aprendendo o basico de javascript
