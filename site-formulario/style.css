@@ -1,0 +1,44 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    margin: 60px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+#form {
+    width: 200px;
+    padding: 12px 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+#form:focus {
+    outline: none;
+    border: 2px solid #4CAF50;
+}
+
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
